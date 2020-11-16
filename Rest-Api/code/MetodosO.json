@@ -1,0 +1,54 @@
+[
+    [
+        {
+            "id": "1",
+            "title": "Bubble Sort",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2017/03/Bubble-sort.gif",
+            "descripcion": " Consiste en ciclar repetidamente a través de la lista, comparando elementos adyacentes de dos en dos. Si un elemento es mayor que el que está en la siguiente posición se intercambian."
+        },
+        {
+            "id": "2",
+            "title": "Insercion Sort",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2017/03/Insertion-sort.gif",
+            "descripcion": "consiste en ir insertando un elemento de la lista ó un arreglo en la parte ordenada de la misma, asumiendo que el primer elemento es la parte ordenada, el algoritmo ira comparando un elemento de la parte desordenada de la lista con los elementos de la parte ordenada, insertando el elemento en la posición correcta dentro de la parte ordenada, y así sucesivamente hasta obtener la lista ordenada. "
+        },
+        {
+            "id": "3",
+            "title": "Seleccion Sort",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2017/03/Selection-Sort.gif",
+            "descripcion": "Consiste en encontrar el menor de todos los elementos del vector e intercambiarlo con el que está en la primera posición. Luego el segundo mas pequeño, y así sucesivamente hasta ordenarlo todo."
+        },
+        {
+            "id": "4",
+            "title": "Quicksort",
+            "url": "http://www-scf.usc.edu/~zhan468/public/Notes/resources/C411339B79F92499DCB7B5F304C826F4.gif",
+            "descripcion": "Un ordenamiento rápido primero selecciona un valor, que se denomina el valor pivote. Aunque hay muchas formas diferentes de elegir el valor pivote, simplemente usaremos el primer ítem de la lista. El papel del valor pivote es ayudar a dividir la lista. La posición real a la que pertenece el valor pivote en la lista final ordenada, comúnmente denominado punto de división, se utilizará para dividir la lista para las llamadas posteriores a la función de ordenamiento rápido."
+        }
+    ],
+    [
+        {
+            "id": "1",
+            "nombre": "Kevin Galdamez",
+            "url": "https://scontent.fsal5-1.fna.fbcdn.net/v/t1.0-9/70409488_1131085593757138_1810808076563906560_o.jpg?_nc_cat=111&ccb=2&_nc_sid=09cbfe&_nc_ohc=ACuKhbx4paYAX99ixYA&_nc_ht=scontent.fsal5-1.fna&oh=fefdb0adf6f10b3e51a1a50e76c0a3ff&oe=5FD961A1",
+            "descripcion": "Full Stack Developer",
+            "account": "https://github.com/KevinMajano"
+        },
+        {
+            "id": "2",
+            "nombre": "Benjamin Ruiz",
+            "url": "https://scontent.fsal5-1.fna.fbcdn.net/v/t1.0-9/90964838_3016826858409565_5554968846466547712_o.jpg?_nc_cat=110&ccb=2&_nc_sid=174925&_nc_ohc=u5V3QmMm7hEAX9l9jbH&_nc_oc=AQm2yJXrWoXN8-yZNNg6cPimmD6aqNlPwC32wDxpg3UErX3KXqzYP-_KE7MIYdzZD80&_nc_ht=scontent.fsal5-1.fna&oh=5fca9cfc2083ff75ffb7d2f02e11c0c4&oe=5FD6AF20",
+            "descripcion": "Backend Developer",
+            "account": "https://github.com/Aramis1999"
+        },
+        {
+            "id": "3",
+            "nombre": "Sergio Guevara",
+            "url": "https://scontent.fsal5-1.fna.fbcdn.net/v/t1.0-9/71138572_176394360160778_8236375474058559488_o.jpg?_nc_cat=108&ccb=2&_nc_sid=09cbfe&_nc_ohc=8RpSEgh-aI0AX8cKd8v&_nc_ht=scontent.fsal5-1.fna&oh=be4f01c67f415485f32a72393a7afb44&oe=5FD68A5B",
+            "descripcion": "Backend Developer",
+            "account": "https://github.com/SergioGuevara"
+        }
+    ]
+]
+
+
+
